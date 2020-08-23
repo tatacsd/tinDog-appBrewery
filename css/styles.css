@@ -59,7 +59,7 @@ p {
 
 /************************* Download Buttons ***********************/
 
-.donwload-button {
+.download-button {
   margin: 5% 3% 5% 0;
 }
 
@@ -141,6 +141,7 @@ p {
 #cta {
   background-color: #ff4c68;
   text-align: center;
+  padding: 7% 15%;
 }
 
 #cta h3 {
@@ -149,19 +150,13 @@ p {
   font-weight: 900;
   font-size: 3.5rem;
   line-height: 1.5;
-
-  padding: 2% 15%;
-}
-
-#cta button {
-  margin-right: 20px;
-  justify-content: space-between;
 }
 
 /*********************      Footer      ***************************/
 #footer {
   background-color: #fff;
   text-align: center;
+  padding-bottom: 3%;
 }
 
 #footer i {
