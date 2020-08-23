@@ -137,6 +137,37 @@ p {
   padding: 3% 2%;
 }
 
+/******************* Call to Action *******************************/
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+#cta h3 {
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+  padding: 2% 15%;
+}
+
+#cta button {
+  margin-right: 20px;
+  justify-content: space-between;
+}
+
+/*********************      Footer      ***************************/
+.container-footer {
+  background-color: #fff;
+  text-align: center;
+}
+
+.container-footer i {
+  padding: 8% 1% 2% 0;
+}
+
 /********************** Mobile Viewport ***************************/
 
 @media (max-width: 1028px) {
