@@ -159,12 +159,12 @@ p {
 }
 
 /*********************      Footer      ***************************/
-.container-footer {
+#footer {
   background-color: #fff;
   text-align: center;
 }
 
-.container-footer i {
+#footer i {
   padding: 8% 1% 2% 0;
 }
 
